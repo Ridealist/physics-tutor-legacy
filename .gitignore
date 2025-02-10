@@ -1,0 +1,15 @@
+secrets.toml
+config.json
+/.cache
+
+.__pycache__
+*/__pycache__
+__pycache__
+
+.DS_Store
+
+# 이미지 파일
+*.jpg
+*.jpeg
+*.gif
+*.bmp
